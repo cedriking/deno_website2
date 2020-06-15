@@ -1982,6 +1982,12 @@
     "repo": "deno-is",
     "desc": "Detect the running environment and context of the current script."
   },
+  "is.deno": {
+    "type": "github",
+    "owner": "cedriking",
+    "repo": "is.deno",
+    "desc": "Micro deno module that helps you with conditions."
+  },
   "isIP": {
     "type": "github",
     "owner": "ako-deno",
